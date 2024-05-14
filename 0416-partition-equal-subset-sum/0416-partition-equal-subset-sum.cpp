@@ -1,25 +1,22 @@
 class Solution {
 public:
-
     bool canPartition(vector<int>& nums) {
-        int sum=accumulate(nums.begin(),nums.end(),0LL);
-        if(sum&1) return 0;
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
+        int sum = accumulate(nums.begin(), nums.end(), 0);
+        if (sum & 1) return false;
         int n=nums.size();
-        vector<vector<bool>> dp(n,vector<bool>(sum+1,false));
+        // bitset<10001> bits(1);
+        // for (auto &x: nums) bits |= bits << x;
+        // return bits[sum >> 1];
+        vector<bool> dp(sum+1,false);
+        dp[0]=true;
         for(int i=0;i<n;i++){
-            for(int j=0;j<=sum;j++){
-                if(j==0) dp[i][j]=true;
-                if(j<nums[i]){
-                 if(i!=0) dp[i][j]=dp[i-1][j];
-                }
-                else if(j==nums[i]){
-                    dp[i][j]=true;
-                }
-                else if(j>nums[i]){
-                   if(i!=0) dp[i][j]=dp[i-1][j-nums[i]] || dp[i-1][j];
-                }
+            for(int j=sum;j>=0;j--){
+                if(j>=nums[i]) dp[j]=dp[j] || dp[j-nums[i]];
             }
         }
-        return dp[n-1][sum/2];
+        return dp[sum/2];
     }
 };
