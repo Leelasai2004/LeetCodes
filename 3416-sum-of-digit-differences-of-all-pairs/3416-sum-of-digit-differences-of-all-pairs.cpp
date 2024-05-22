@@ -21,10 +21,10 @@ public:
             for(auto x:v[i]) count[x]++;
             int prev=0;
             for(int j=0;j<10;j++){
-                ans+=count[j]*(n-prev-count[j])+count[j]*prev;
-                prev=count[j];
+                ans+=count[j]*(n-prev-count[j]);
+                prev+=count[j];
             }
         }
-        return ans/2;
+        return ans;
     }
 };
