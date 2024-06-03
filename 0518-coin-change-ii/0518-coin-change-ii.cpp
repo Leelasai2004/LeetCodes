@@ -6,10 +6,7 @@ public:
         dp[0]=1;
         for(int i=1;i<=n;i++){
             for(int j=0;j<=amount;j++){
-                if(coins[i-1]>j){
-
-                }
-                else{
+                if(j>=coins[i-1]){
                     dp[j]=dp[j]+dp[j-coins[i-1]];
                 }
             }
