@@ -1,24 +1,16 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        bool f=false,g=false;
-        int prev=nums[0];
-        for(int i=0;i<nums.size()-1;i++){
-            if(nums[i]>nums[i+1]){
-                if(f){
-                    return false;
-                }
-                if(!f){
-                    f=true;
-                }
-        
-                // prev=nums[i];
+        int n=nums.size();
+        int cnt=0;
+        for(int i=1;i<n;i++){
+            if(nums[i-1]>nums[i]){
+                cnt++;
             }
-            
         }
-        if(f){
-            return prev>=nums.back();
+        if(nums[n-1]>nums[0]){
+            cnt++;
         }
-        return true;
+        return cnt<=1;
     }
 };
