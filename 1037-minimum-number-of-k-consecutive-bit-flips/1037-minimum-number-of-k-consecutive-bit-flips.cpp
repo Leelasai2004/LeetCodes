@@ -1,36 +1,28 @@
 class Solution {
 public:
     int minKBitFlips(vector<int>& nums, int k) {
-        // Keeps track of flipped states
-        vector<bool> flipped(nums.size(), false);
-        // Tracks valid flips within the past window
-        int validFlipsFromPastWindow = 0;
-        // Counts total flips needed
-        int flipCount = 0;
-
-        for (int i = 0; i < nums.size(); i++) {
-            if (i >= k) {
-                // Decrease count of valid flips from the past window if needed
-                if (flipped[i - k]) {
-                    validFlipsFromPastWindow--;
+        int currflips=0,total=0;
+        int n=nums.size();
+        vector<int> flipped(n,0);
+        for(int i=0;i<n;i++){
+            if(i>=k){
+                if(flipped[i-k]){
+                    currflips--;
                 }
             }
-
-            // Check if current bit needs to be flipped
-            if (validFlipsFromPastWindow % 2 == nums[i]) {
-                // If flipping the window extends beyond the array length,
-                // return -1
-                if (i + k > nums.size()) {
-                    return -1;
-                }
-                // Increment the count of valid flips and mark current as
-                // flipped
-                validFlipsFromPastWindow++;
-                flipped[i] = true;
-                flipCount++;
+            if(nums[i]==0 && currflips&1){
+                continue;
             }
+            if(nums[i]==1 && currflips%2==0){
+                continue;
+            }
+            if(i+k>n){
+                return -1;
+            }
+            currflips++;
+            flipped[i]=1;
+            total++;
         }
-
-        return flipCount;
+        return total;
     }
 };
