@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Leelasai2004/Leetsync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Leelasai2004/Leetsync/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
+| [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
 | [1293-three-consecutive-odds](https://github.com/Leelasai2004/Leetsync/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
+| [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -57,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
