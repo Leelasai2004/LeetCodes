@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
 | [1293-three-consecutive-odds](https://github.com/Leelasai2004/Leetsync/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Counting
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
