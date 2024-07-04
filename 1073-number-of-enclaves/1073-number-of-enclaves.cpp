@@ -18,38 +18,37 @@ vector<int> dx = {-1, 0, 1, 0};
                 ans+=board[i][j];
                 if ((i == 0 || j == 0 || i == n - 1 || j == m - 1) && board[i][j] == 1) {
                     q.push({i, j});
+                     vis[i][j]=2;
                 }
             }
         }
-
-        while (!q.empty()) {
+        int steps=0;
+               while (!q.empty()) {
             int x = q.front()[0], y = q.front()[1];
-            // cout << x << " " << y << "\n";
-            if(board[x][y]==0){
-                q.pop();
-                continue;
-            }
-            board[x][y]=0;
-            ans--;
+        // if(x==1 && y==4)    cout << x << " " << y << " " << vis[x][y] << " " << board[x][y] << 'n';
+            steps++;
             q.pop();
             for (int i = 0; i < 4; i++) {
                 int nx = x + dx[i], ny = y + dy[i];
                 if (is_valid(nx, ny, n, m)) {
-                    if (board[nx][ny] == 1) {
+                    if (board[nx][ny] == 1 && vis[nx][ny] != 2) {
                         q.push({nx, ny});
+                        vis[nx][ny] = 2;
                     }
                 }
             }
         }
-        // int ans=0;
-        // for (int i = 0; i < n; i++) {
-        //     for (int j = 0; j < m; j++) {
-        //         if (board[i][j] == 1 && vis[i][j] ==0) {
-        //            ans++;
-        //         }
-        //         // board[i][j]='0'+vis[i][j];
-        //     }
-        // }
+
+        cout<<steps<<'\n';
+        ans=0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (board[i][j] == 1 && vis[i][j] ==0) {
+                   ans++;
+                }
+                // board[i][j]='0'+vis[i][j];
+            }
+        }
         return ans;
     }
 };
