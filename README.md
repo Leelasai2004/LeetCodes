@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
+| [0516-longest-palindromic-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
