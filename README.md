@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Leelasai2004/Leetsync/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Leelasai2004/Leetsync/tree/master/0583-delete-operation-for-two-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Leelasai2004/Leetsync/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Leelasai2004/Leetsync/tree/master/0583-delete-operation-for-two-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Leelasai2004/Leetsync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
