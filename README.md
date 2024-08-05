@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Leelasai2004/Leetsync/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Leelasai2004/Leetsync/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Leelasai2004/Leetsync/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Leelasai2004/Leetsync/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Leelasai2004/Leetsync/tree/master/0368-largest-divisible-subset) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Leelasai2004/Leetsync/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
