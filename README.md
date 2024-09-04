@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Leelasai2004/Leetsync/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
+| [0906-walking-robot-simulation](https://github.com/Leelasai2004/Leetsync/tree/master/0906-walking-robot-simulation) |
 | [1073-number-of-enclaves](https://github.com/Leelasai2004/Leetsync/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Leelasai2004/Leetsync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Leelasai2004/Leetsync/tree/master/1293-three-consecutive-odds) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Leelasai2004/Leetsync/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/Leelasai2004/Leetsync/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Leelasai2004/Leetsync/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Leelasai2004/Leetsync/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Leelasai2004/Leetsync/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Leelasai2004/Leetsync/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Leelasai2004/Leetsync/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Leelasai2004/Leetsync/tree/master/1951-find-the-winner-of-the-circular-game) |
