@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Leelasai2004/Leetsync/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Leelasai2004/Leetsync/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Leelasai2004/Leetsync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Leelasai2004/Leetsync/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Sorting
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Leelasai2004/Leetsync/tree/master/0583-delete-operation-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/Leelasai2004/Leetsync/tree/master/0726-number-of-atoms) |
 | [1170-shortest-common-supersequence](https://github.com/Leelasai2004/Leetsync/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Leelasai2004/Leetsync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Leelasai2004/Leetsync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Leelasai2004/Leetsync/tree/master/1818-maximum-score-from-removing-substrings) |
