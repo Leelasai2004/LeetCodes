@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Leelasai2004/Leetsync/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Leelasai2004/Leetsync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Leelasai2004/Leetsync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Leelasai2004/Leetsync/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Leelasai2004/Leetsync/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Leelasai2004/Leetsync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Leelasai2004/Leetsync/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Leelasai2004/Leetsync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Leelasai2004/Leetsync/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Leelasai2004/Leetsync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2846-robot-collisions](https://github.com/Leelasai2004/Leetsync/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
