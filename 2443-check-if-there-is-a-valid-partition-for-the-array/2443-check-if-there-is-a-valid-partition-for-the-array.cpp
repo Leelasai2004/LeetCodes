@@ -1,46 +1,30 @@
 class Solution {
 public:
-    bool validPartition(vector<int>& n) {
-    int size = n.size();
-    bool dp[4] = {true, false, false, false};
+    bool solve(int i, vector<int>& nums, vector<int>& dp) {
+        if (i < 0) return true; 
+        if (dp[i] != -1) return dp[i]; 
 
-    if (size < 2) {
-        return false;
+        bool left = false;
+        if (i >= 1 && nums[i] == nums[i - 1]) {
+            left = solve(i - 2, nums, dp);
+        }
+
+        bool right = false;
+        if (i >= 2 && nums[i] == nums[i - 1] && nums[i - 1] == nums[i - 2]) {
+            right = solve(i - 3, nums, dp);
+        }
+
+        bool center = false;
+        if (i >= 2 && nums[i] == nums[i - 1] + 1 && nums[i - 1] == nums[i - 2] + 1) {
+            center = solve(i - 3, nums, dp);
+        }
+
+        return dp[i] = left || right || center;
     }
 
-    if (size >= 2) {
-        dp[2] = (n[0] == n[1]);
+    bool validPartition(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n, -1); 
+        return solve(n - 1, nums, dp);
     }
-
-    for (int i = 2; i < size; ++i) {
-        bool twoEqual = false;
-        if (n[i] == n[i - 1]) {
-            twoEqual = true;
-        }
-
-        bool threeEqual = false;
-        if (n[i] == n[i - 1] && n[i] == n[i - 2]) {
-            threeEqual = true;
-        }
-
-        bool threeConsecutive = false;
-        if (n[i] - 1 == n[i - 1] && n[i] - 2 == n[i - 2]) {
-            threeConsecutive = true;
-        }
-
-        bool three = threeEqual || threeConsecutive;
-
-        if (dp[(i - 1) % 4] && twoEqual) {
-            dp[(i + 1) % 4] = true;
-        } else if (dp[(i - 2) % 4] && three) {
-            dp[(i + 1) % 4] = true;
-        } else {
-            dp[(i + 1) % 4] = false;
-        }
-    }
-
-    bool result = dp[size % 4];
-    return result;
-}
-
 };
