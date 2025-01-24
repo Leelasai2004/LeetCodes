@@ -1,54 +1,49 @@
+#define ll long long int
 class Solution {
 public:
     long long maximumValueSum(vector<int>& nums, int k, vector<vector<int>>& edges) {
-        // Initialize graph and visited array
-        unordered_map<int, vector<int>> graph;
-        int n = nums.size();
-        for (auto& edge : edges) {
-            graph[edge[0]].push_back(edge[1]);
-            graph[edge[1]].push_back(edge[0]);
+        ll n = nums.size();
+        vector<vector<ll>>adj(n);
+        for(auto i:edges){
+            ll a = i[0],b = i[1];
+            adj[a].push_back(b);
+            adj[b].push_back(a);
         }
-        
-        vector<bool> visited(n, false);
-        
-        // Declare dfs as a std::function for recursion
-        function<pair<long long, long long>(int, vector<bool>&)> dfs = [&](int index, vector<bool>& visited) -> pair<long long, long long> {
-            visited[index] = true;
-            long long no_xor = nums[index];
-            long long xor_val = nums[index] ^ k;
-            long long max_sum = 0, num_xors = 0, min_diff = abs(no_xor - xor_val);
-            
-            if (xor_val > no_xor) {
-                max_sum = xor_val;
-                num_xors = 1;
-            } else {
-                max_sum = no_xor;
+        auto f = [&](ll node,ll par,auto &&self)->pair<ll,ll>{
+            ll a = nums[node],b = nums[node]^k;
+            ll sum = 0,y = 0;
+            ll mini= abs(a-b);
+            if(a>b){
+                sum+=a;
             }
-            
-            for (int neigh : graph[index]) {
-                if (!visited[neigh]) {
-                    auto result = dfs(neigh, visited);
-                    long long child_no_xor = result.first;
-                    long long child_xor = result.second;
-                    min_diff = min(min_diff, abs(child_no_xor - child_xor));
-                    
-                    if (child_xor > child_no_xor) {
-                        max_sum += child_xor;
-                        num_xors++;
-                    } else {
-                        max_sum += child_no_xor;
+            else{
+                sum+=b;
+                y++;
+            }
+            for(auto i:adj[node]){
+                if(i!=par){
+                    pair<ll,ll> x = self(i,node,self);
+                    mini=min(mini,abs(x.first-x.second));
+                    if(x.first >= x.second){
+                        sum+=x.first;
+                    }
+                    else{
+                        sum+=x.second;
+                        y++;
                     }
                 }
             }
-            
-            if (num_xors % 2 == 0) {
-                return make_pair(max_sum, max_sum - min_diff);
-            } else {
-                return make_pair(max_sum - min_diff, max_sum);
+            if(y&1){
+                a=sum-mini;
+                b= sum;
             }
+            else{
+                a = sum;
+                b = sum-mini;
+            }
+            return {a,b};
         };
-        
-        // Call DFS from the root (index 0)
-        return dfs(0, visited).first;
+        pair<ll,ll> x = f(0,-1,f);
+        return x.first;
     }
 };
