@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Leelasai2004/Leetsync/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Leelasai2004/Leetsync/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2846-robot-collisions](https://github.com/Leelasai2004/Leetsync/tree/master/2846-robot-collisions) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Leelasai2004/Leetsync/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Leelasai2004/Leetsync/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Leelasai2004/Leetsync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Leelasai2004/Leetsync/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Leelasai2004/Leetsync/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Leelasai2004/Leetsync/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Leelasai2004/Leetsync/tree/master/2846-robot-collisions) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Counting
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Leelasai2004/Leetsync/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Leelasai2004/Leetsync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## String
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Leelasai2004/Leetsync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Leelasai2004/Leetsync/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Leelasai2004/Leetsync/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -201,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Leelasai2004/Leetsync/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
