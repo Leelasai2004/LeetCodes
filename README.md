@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leelasai2004/Leetsync/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Leelasai2004/Leetsync/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Leelasai2004/Leetsync/tree/master/0130-surrounded-regions) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
