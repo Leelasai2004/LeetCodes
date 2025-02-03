@@ -22,7 +22,7 @@ public:
 
         if (sum + nums[ind] <= target) {
             v.push_back(nums[ind]);
-            string temp = s + to_string(nums[ind]) + ",";
+            string temp = s + to_string(nums[ind]);
             solve(nums, ind + 1, sum + nums[ind], target, v, temp);
             v.pop_back();
         }
