@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Leelasai2004/Leetsync/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Leelasai2004/Leetsync/tree/master/0130-surrounded-regions) |
 | [0337-house-robber-iii](https://github.com/Leelasai2004/Leetsync/tree/master/0337-house-robber-iii) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Leelasai2004/Leetsync/tree/master/0098-validate-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Leelasai2004/Leetsync/tree/master/0337-house-robber-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Leelasai2004/Leetsync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Leelasai2004/Leetsync/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Leelasai2004/Leetsync/tree/master/0098-validate-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Leelasai2004/Leetsync/tree/master/0337-house-robber-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Leelasai2004/Leetsync/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Leelasai2004/Leetsync/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0040-combination-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Leelasai2004/Leetsync/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
