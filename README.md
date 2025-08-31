@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leelasai2004/Leetsync/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Leelasai2004/Leetsync/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Leelasai2004/Leetsync/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leelasai2004/Leetsync/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Leelasai2004/Leetsync/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Leelasai2004/Leetsync/tree/master/0726-number-of-atoms) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Leelasai2004/Leetsync/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Leelasai2004/Leetsync/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Leelasai2004/Leetsync/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0040-combination-sum-ii) |
 ## Binary Search Tree
 |  |
