@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Leelasai2004/Leetsync/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Leelasai2004/Leetsync/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2846-robot-collisions](https://github.com/Leelasai2004/Leetsync/tree/master/2846-robot-collisions) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Leelasai2004/Leetsync/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Leelasai2004/Leetsync/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Leelasai2004/Leetsync/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Leelasai2004/Leetsync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Leelasai2004/Leetsync/tree/master/2846-robot-collisions) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Counting
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Leelasai2004/Leetsync/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Leelasai2004/Leetsync/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/Leelasai2004/Leetsync/tree/master/2645-pass-the-pillow) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Simulation
 |  |
 | ------- |
@@ -241,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Leelasai2004/Leetsync/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
