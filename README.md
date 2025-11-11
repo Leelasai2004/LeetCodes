@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Leelasai2004/Leetsync/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/Leelasai2004/LeetCodes/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Leelasai2004/Leetsync/tree/master/0733-flood-fill) |
 | [0906-walking-robot-simulation](https://github.com/Leelasai2004/Leetsync/tree/master/0906-walking-robot-simulation) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Leelasai2004/Leetsync/tree/master/0115-distinct-subsequences) |
 | [0337-house-robber-iii](https://github.com/Leelasai2004/Leetsync/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Leelasai2004/Leetsync/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/Leelasai2004/LeetCodes/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Leelasai2004/Leetsync/tree/master/0583-delete-operation-for-two-strings) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Leelasai2004/Leetsync/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Leelasai2004/Leetsync/tree/master/0115-distinct-subsequences) |
+| [0474-ones-and-zeroes](https://github.com/Leelasai2004/LeetCodes/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Leelasai2004/Leetsync/tree/master/0583-delete-operation-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/Leelasai2004/Leetsync/tree/master/0726-number-of-atoms) |
