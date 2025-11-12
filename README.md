@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Leelasai2004/Leetsync/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Leelasai2004/Leetsync/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Leelasai2004/Leetsync/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Leelasai2004/LeetCodes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2846-robot-collisions](https://github.com/Leelasai2004/Leetsync/tree/master/2846-robot-collisions) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Leelasai2004/Leetsync/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Leelasai2004/Leetsync/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/Leelasai2004/Leetsync/tree/master/2645-pass-the-pillow) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Leelasai2004/LeetCodes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Simulation
 |  |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Leelasai2004/LeetCodes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
