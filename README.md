@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Leelasai2004/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Leelasai2004/Leetsync/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Leelasai2004/Leetsync/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Leelasai2004/Leetsync/tree/master/0115-distinct-subsequences) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Leelasai2004/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Leelasai2004/Leetsync/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Leelasai2004/Leetsync/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Leelasai2004/LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Leelasai2004/Leetsync/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Leelasai2004/Leetsync/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/Leelasai2004/LeetCodes/tree/master/0474-ones-and-zeroes) |
