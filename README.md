@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Leelasai2004/Leetsync/tree/master/0169-majority-element) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Leelasai2004/LeetCodes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Leelasai2004/Leetsync/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Leelasai2004/Leetsync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Leelasai2004/LeetCodes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## String
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Leelasai2004/Leetsync/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Leelasai2004/Leetsync/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Leelasai2004/LeetCodes/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Leelasai2004/LeetCodes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Linked List
 |  |
 | ------- |
