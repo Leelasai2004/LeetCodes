@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Leelasai2004/Leetsync/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Leelasai2004/Leetsync/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Leelasai2004/Leetsync/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2625-increment-submatrices-by-one](https://github.com/Leelasai2004/LeetCodes/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Leelasai2004/LeetCodes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2846-robot-collisions](https://github.com/Leelasai2004/Leetsync/tree/master/2846-robot-collisions) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Leelasai2004/Leetsync/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Leelasai2004/Leetsync/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2625-increment-submatrices-by-one](https://github.com/Leelasai2004/LeetCodes/tree/master/2625-increment-submatrices-by-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Leelasai2004/Leetsync/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2625-increment-submatrices-by-one](https://github.com/Leelasai2004/LeetCodes/tree/master/2625-increment-submatrices-by-one) |
 ## Bit Manipulation
 |  |
 | ------- |
