@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Leelasai2004/Leetsync/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Leelasai2004/Leetsync/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Leelasai2004/Leetsync/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Leelasai2004/LeetCodes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Leelasai2004/Leetsync/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2625-increment-submatrices-by-one](https://github.com/Leelasai2004/LeetCodes/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Leelasai2004/LeetCodes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Leelasai2004/Leetsync/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Leelasai2004/Leetsync/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Leelasai2004/Leetsync/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Leelasai2004/LeetCodes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Leelasai2004/Leetsync/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Leelasai2004/Leetsync/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Leelasai2004/Leetsync/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Leelasai2004/Leetsync/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Leelasai2004/Leetsync/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Leelasai2004/LeetCodes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Leelasai2004/LeetCodes/tree/master/2625-increment-submatrices-by-one) |
 ## Two Pointers
 |  |
