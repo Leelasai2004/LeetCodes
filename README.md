@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Leelasai2004/LeetCodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Leelasai2004/Leetsync/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Leelasai2004/Leetsync/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Leelasai2004/LeetCodes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Leelasai2004/Leetsync/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Leelasai2004/Leetsync/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Leelasai2004/Leetsync/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Leelasai2004/Leetsync/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Leelasai2004/Leetsync/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Leelasai2004/LeetCodes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Leelasai2004/Leetsync/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Leelasai2004/Leetsync/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2625-increment-submatrices-by-one](https://github.com/Leelasai2004/LeetCodes/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Leelasai2004/LeetCodes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
